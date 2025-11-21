@@ -44,8 +44,8 @@ Find the MST using Boruvka's Algorithm for a weighted undirected graph.
 ## Program:
 ```
 /*
-Developed by: Tamizharasi S
-Register Number:  212222040170 
+Developed by: Mena Rossini R
+Register Number: 212222040099
 */
 
 import java.util.*;
